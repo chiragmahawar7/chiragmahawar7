@@ -14,7 +14,7 @@ I'm Chirag
 <br />
 
 I'm Chirag Mahawar, Software Engineer 🚀 & a technology Enthusiast. <br />
-Currently I'm working as Software Engineer I 🙍🏽‍♂️ at BlackRock. <br />
+Currently I'm working as Software Engineer II 🙍🏽‍♂️ at BlackRock. <br />
 
 **More About Me:** <br />
 Foodaholic | Caffeineoholic | Scribbler | Violinist <br />
