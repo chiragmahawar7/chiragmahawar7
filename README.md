@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Chirag
 
 <a href="https://www.linkedin.com/in/chirag-mahawar/">
   <img align="left" alt="Chirag Mahawar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,9 +16,9 @@ I'm Chirag Mahawar, Software Engineer 🚀 & a technology Enthusiast. <br />
 Currently I'm working as Software Engineer II 🙍🏽‍♂️ at BlackRock. <br />
 
 **More About Me:** <br />
-Foodaholic | Caffeineoholic | Scribbler | Violinist <br />
+Foodaholic | Caffeineaholic | Scribbler | Violinist <br />
 :mortar_board: B.E. Computer Engineering from Thapar Institute of Engineering And Technology, Patiala (2016-2020) <br />
-💬 Ask me about anything, I am happy to help; <br />
+💬 Ask me about anything, I am happy to help/collaborate; <br />
 📫 How to reach me: chiragmahawar000@gmail.com <br />
 
 **Languages and Tools:** <br />
